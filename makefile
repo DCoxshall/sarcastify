@@ -1,2 +1,2 @@
 main:
-	g++ src\sarcastify.cpp -o build\sarcastify
+	g++ src/sarcastify.cpp -o build/sarcastify
